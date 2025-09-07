@@ -1,0 +1,10 @@
+command.sh
+
+# Ignore folder log
+log/
+
+# Ignore file extension .backup
+*.backup
+
+# Ignore specific file
+ignore.txt
